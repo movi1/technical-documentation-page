@@ -1,0 +1,28 @@
+body{
+    display:flex;
+}
+
+@media (min-width: 600px) {
+	#nav-header {
+		font-size: 21px;
+    }
+}
+#navbar {
+	padding: 20px;
+	font-family: roboto;
+	line-height: 40px;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	height: 100%;
+	background-color: white;
+}
+#main-doc {
+    position: absolute;
+    margin-left: 310px;
+    padding: 20px;
+    margin-bottom: 110px;
+    
+	
+}
+  
