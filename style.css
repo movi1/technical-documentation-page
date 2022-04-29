@@ -1,6 +1,13 @@
 body{
     display:flex;
 }
+header {
+    color:black;
+    margin: 10px;
+    text-align: center;
+    font-size: 1.8em;
+    font-weight: thin;
+}
 
 @media (min-width: 600px) {
 	#nav-header {
@@ -22,7 +29,7 @@ body{
     margin-left: 310px;
     padding: 20px;
     margin-bottom: 110px;
-    
+
 	
 }
   
